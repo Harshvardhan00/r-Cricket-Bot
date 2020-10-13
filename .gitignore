@@ -4,4 +4,4 @@ source/emailGlobals.py
 tests/sidebarSettings.py
 source/updatedThreads.txt
 source/MTBApprovedUpdaters.txt
-source/fileHandlingTest.py
+source/fileHandlingTest.py 
